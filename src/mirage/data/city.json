@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Hà Nội",
+    "code": "HN"
+  },
+  {
+    "name": "Hồ Chí Minh",
+    "code": "HCM"
+  },
+  {
+    "name": "Đà Nẵng",
+    "code": "DN"
+  },
+  {
+    "name": "Hải Phòng",
+    "code": "HP"
+  },
+  {
+    "name": "Cần Thơ",
+    "code": "CT"
+  },
+  {
+    "name": "Nha Trang",
+    "code": "NT"
+  },
+  {
+    "name": "Huế",
+    "code": "H"
+  },
+  {
+    "name": "Vũng Tàu",
+    "code": "VT"
+  },
+  {
+    "name": "Biên Hòa",
+    "code": "BH"
+  },
+  {
+    "name": "Buôn Ma Thuột",
+    "code": "BMT"
+  }
+]
